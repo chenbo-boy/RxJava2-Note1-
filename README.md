@@ -6,4 +6,5 @@
 
   1.just 
  >按序发射单个对象，默认没有线程调度。
+ ![](https://github.com/chenbo-boy/RxJava2-Note1_Creating-Observables/edit/master/README.md "just-why")
  
